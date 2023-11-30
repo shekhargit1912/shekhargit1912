@@ -15,9 +15,9 @@ class AboutMe:
 
     def __init__(self):
         self.name = "Shekhar Chaugule"
-        self.role = "SDE Intern @Clover Bay"
+        self.role = "SDE (DevOps)@Clover Bay"
         self.language_spoken = ["en_IN","Hindi",]
-        self.skills=["DevOps","Docker","AWS" "Python","Android Development","Back-end","Machine Learning",web Development]
+        self.skills=["DevOps","Docker","AWS" "Python","Ansible","Jenkins","terraform",web Development]
         
 
     def say_hi(self):
