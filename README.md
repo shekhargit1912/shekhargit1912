@@ -15,9 +15,9 @@ class AboutMe:
 
     def __init__(self):
         self.name = "Shekhar Chaugule"
-        self.role = "SDE (DevOps)@Clover Bay"
+        self.role = "DevOps Engineer 1"
         self.language_spoken = ["en_IN","Hindi",]
-        self.skills=["DevOps","Docker","AWS" "Python","Ansible","Jenkins","terraform",web Development]
+        self.skills=["DevOps","K8s","Docker","AWS" "Python","Ansible","Jenkins","Terraform","web Development","GO"]
         
 
     def say_hi(self):
@@ -31,6 +31,7 @@ me.say_hi()
 ##  Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/shekhar-chaugule-333300171/)
+- [Medium](https://medium.com/@ShekharChaugule19)
 - [LeetCode](https://leetcode.com/shekhar1912/)
 - [Hackerrank]( https://www.hackerrank.com/shekhar_22020104) 
 
